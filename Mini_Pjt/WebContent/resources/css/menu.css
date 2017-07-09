@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+    .row.content {height: 900px}
+    
+    .sidenav {
+      text-align : center;
+      display : inline-block;
+      background-color: #f1f1f1;
+      height: 100%;
+      padding: 35px;
+    }
+  
